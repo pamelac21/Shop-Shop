@@ -48,7 +48,7 @@ https://tranquil-badlands-04956.herokuapp.com/
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pamelac21/Book-Search-Engine.git
+   git clone https://github.com/pamelac21/Shop-Shop.git
    ```
 2. Install NPM packages
    ```sh
