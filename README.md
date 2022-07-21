@@ -1,8 +1,13 @@
-# Shop-Shop (refactoring) 
-State
+# Shop-Shop (refactoring) State
 
 ## Description
-* enhance an existing e-commerce platform called Shop-Shop. To do this, you’ll centralize all of the application's data in state globally to make it easier to share state across the entire application. You’ll also create a shopping cart for the application, add offline functionality, and process secure online payments with a service called Stripe.
+`Enhance an existing e-commerce platform called Shop-Shop.` 
+
+* Centralize all of the application's data in state globally to make it easier to share state across the entire application. 
+
+* Create a shopping cart for the application, add offline functionality, and process secure online payments with a service called Stripe.
+
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,9 +21,9 @@ State
 ## Deployed Application
 https://tranquil-badlands-04956.herokuapp.com/
 
-<img src="https://user-images.githubusercontent.com/87335354/180121400-309600ee-ae64-4780-8805-a375a388cf4f.jpg" height="500">
-
 <img src="https://user-images.githubusercontent.com/87335354/180121434-fae44125-eced-484f-b6ac-f39de6aed41f.jpg" height="500">
+
+<img src="https://user-images.githubusercontent.com/87335354/180121400-309600ee-ae64-4780-8805-a375a388cf4f.jpg" height="500">
 
 
 ## Tech Used
@@ -34,7 +39,6 @@ https://tranquil-badlands-04956.herokuapp.com/
 * [Mongoose](https://mongoosejs.com/)
 * [Nodemon](https://nodemon.io/)
 * [Stripe](https://stripe.com/)
-
 
 `Stripe` (Links to an external site.) is a suite of online payment processing APIs that powers commerce for online businesses of all sizes, allowing them to accept and process payments online. You’ll use the `stripe` (Links to an external site.) npm package to integrate Stripe into your application.
 
