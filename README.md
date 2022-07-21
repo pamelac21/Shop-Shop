@@ -1,6 +1,8 @@
 # Shop-Shop (refactoring) 
 State
 * enhance an existing e-commerce platform called Shop-Shop. To do this, you’ll centralize all of the application's data in state globally to make it easier to share state across the entire application. You’ll also create a shopping cart for the application, add offline functionality, and process secure online payments with a service called Stripe.
+## Deployed Application
+https://tranquil-badlands-04956.herokuapp.com/ | https://git.heroku.com/tranquil-badlands-04956.git
 
 ## What You Will Learn
 Explain and identify use cases for global state management.
